@@ -1,9 +1,9 @@
 # Problem Description
 Show your data analysis based on division ( For district wise, follow same way), Here I use javascript, You can add it in your own way. Thank me later. 
 
-## License
+## Exaple image
 
-Released under [Riseup Labs](/LICENSE) by [@arafat](https://bd.linkedin.com/in/arafat-rahman-b2a948174).
+![Division Wise BD Map](img/division-wise-bd-map.PNG)
 
 # Instruction
 
